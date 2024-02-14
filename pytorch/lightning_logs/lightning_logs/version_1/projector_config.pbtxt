@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "product_category:10000"
+  metadata_path: "10000/product_category\\metadata.tsv"
+  tensor_path: "10000/product_category\\tensors.tsv"
+}
